@@ -1,4 +1,4 @@
-[submodule "Plain Craft Launcher 2/Meloong-Core"]
-	path = Plain Craft Launcher 2/Meloong-Core
+[submodule "MeloongCore"]
+	path = MeloongCore
 	url = https://github.com/niubikelashi/Meloong-Core.git
 	branch = main
