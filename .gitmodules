@@ -1,4 +1,4 @@
 [submodule "MeloongCore"]
 	path = MeloongCore
-	url = https://github.com/niubikelashi/Meloong-Core.git
+	url = https://github.com/niubikelashi/MeloongCore.git
 	branch = main
